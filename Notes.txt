@@ -1,0 +1,13 @@
+Developers have names 
+and ID numbers;
+we need to be able to identify one developer without mistaking them for another. 
+
+We also need to know whether or not they have access to the online learning tool: Pluralsight.
+
+Challenge: Our HR Department uses the software monthly to get a list of all our Developers that need a Pluralsight license.
+Create this functionality in the Console Application
+
+Our managers need to be able to add and remove members to/from a team by their unique identifier. 
+They should be able to see a list of existing developers to choose from and add to existing teams.
+Odds are, the manager will create a team,
+and then add Developers individually from the Developer Directory to that team.
